@@ -15,7 +15,7 @@ This is the completed result from this [tutorial](https://www.youtube.com/watch?
 
 ![](node-api-key-proxy.png)
 
-![](node-api-key-proxy-devtools)
+![](node-api-key-proxy-devtools.png)
 
 ### Built with
 
